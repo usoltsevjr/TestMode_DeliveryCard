@@ -1,4 +1,4 @@
-### Проверка сборки
+### Проверка сборки  [![Build status](https://ci.appveyor.com/api/projects/status/l3tl40kh4c24437w?svg=true)](https://ci.appveyor.com/project/usoltsevjr/testmode-deliverycard)
 
 # Домашнее задание к занятию «2.3. Patterns»
 
